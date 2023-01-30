@@ -1,0 +1,6 @@
+button{
+    border: 1px solid rgb(183, 132, 231);
+    background-color: lightskyblue;
+    padding: 14px 14px 15px 15px;
+    border-radius: 10%;
+}
